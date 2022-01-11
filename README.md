@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @noamandev
 - 👀 I'm a full stack dev, currently building many things!
 - 🌱 i finished node.js and express... Learning Firebase
-- 💞️ I’m looking to collaborate on github and stack overflow.
-- � 
+- 💞️ I’m looking to collaborate on github...
+- �  
