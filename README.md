@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @noamandev
-- 👀 I'm a full stack dev, currently building many things!
-- 🌱 i finished node.js and express... Learning Firebase
+- 👀 Game developer CURRENTLY, Using Godot!
+- 🌱 GdSCRIPT is my bestfriend! My second bestfriend is JavaScript!
 - 💞️ I’m looking to collaborate on github...
 - �  
