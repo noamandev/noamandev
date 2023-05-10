@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @noamandev
-- 👀 Game developer CURRENTLY, Using Godot AND Unreal!
-- 🌱 GdSCRIPT is my bestfriend! My second bestfriend is JavaScript!
+- 👀 Game developer (godot) and mainly 3D artist (blender and krits)
+- 🌱 GdSCRIPT is my bestfriend! 
 - 💞️ I’m looking to collaborate on github...
-- �  
