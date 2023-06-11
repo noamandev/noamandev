@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @noamandev
-- 👀 Game developer (godot) and mainly 3D artist (blender and krits)
+- 👀 Game developer (godot) and mainly 3D artist (blender and krita)
 - 🌱 GdSCRIPT is my bestfriend! 
 - 💞️ I’m looking to collaborate on github...
